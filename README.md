@@ -1,5 +1,4 @@
 ## Cur8's Team Wiki
-Learn more [here](https://github.com/StanfordCS194/win2023-team9/wiki).
 
 -------
 **STEPS TO RUN THIS PROJECT**:
